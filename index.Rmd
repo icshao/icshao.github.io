@@ -1,6 +1,6 @@
 ---
 title: "Iris Shao"
-image: images/portrait.png
+image: images/portraitdark.png
 site: distill::distill_website
 links:
 #  - label: LinkedIn
@@ -29,6 +29,6 @@ B.S. in Statistics & Digital Humanities Science | Anticipated Completion: June 2
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**University of Toronto** | Curriculum Development Project Assistant | May 2021 - Present
 
-**Company** | Research Scientist | June 2014 - December 2017
+**University of Toronto** | Teaching Assistant | September 2021 - December 2021

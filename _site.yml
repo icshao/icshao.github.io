@@ -3,6 +3,7 @@ title: "Iris Shao"
 description: |
   Statistics Student at University of Toronto
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
     - text: "Home"
