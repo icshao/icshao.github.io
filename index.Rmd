@@ -1,0 +1,34 @@
+---
+title: "Iris Shao"
+image: images/portrait.png
+site: distill::distill_website
+links:
+#  - label: LinkedIn
+#    url: "https://linkedin.com/"
+#  - label: Twitter
+#    url: "https://twitter.com/"
+#  - label: GitHub
+#    url: "https://github.com/"
+  - label: Email
+    url: "mailto:iris.shao@live.com"
+  - label: Resume
+    url: pdfs/IrisShaoResume.pdf
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+my bio
+
+## Education
+
+**University of Toronto** | Toronto, ON, Canada
+
+B.S. in Statistics & Digital Humanities Science | Anticipated Completion: June 2022
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Company** | Research Scientist | June 2014 - December 2017

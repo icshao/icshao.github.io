@@ -1,0 +1,19 @@
+---
+title: "Projects"
+description: |
+  Selected projects
+output:
+    distill::distill_article:
+        toc: true
+        toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## STA303 Project in R
+
+
+## Project in ArcGIS StoryMap
+
