@@ -19,16 +19,20 @@ output:
  
 ## Bio
 
-my bio
+add some statements here 
 
 ## Education
 
 **University of Toronto** | Toronto, ON, Canada
 
-B.S. in Statistics & Digital Humanities | Anticipated Completion: June 2022
+Honours Bachelor of Science in Statistics & Digital Humanities | Anticipated Completion: June 2022
 
-## Experience
+## Work Experience
 
 **University of Toronto** | Curriculum Development Project Assistant | May 2021 - Present
 
 **University of Toronto** | Teaching Assistant | September 2021 - December 2021
+
+**LifeWorks (formerly Morneau Shepell)** | Pension Analyst Intern | May 2018 - August 2018
+
+## Volunteer Experience
