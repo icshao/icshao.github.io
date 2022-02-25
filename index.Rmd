@@ -19,7 +19,7 @@ output:
  
 ## Bio
 
-add some statements here 
+add bio here
 
 ## Education
 
