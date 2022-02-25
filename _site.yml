@@ -11,7 +11,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Projects"
-      href: Projects.html
+      href: projects.html
     - text: "Resume"  
       href: pdfs/IrisShaoResume.pdf
     - icon: fa fa-envelope
