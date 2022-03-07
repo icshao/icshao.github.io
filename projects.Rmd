@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 description: |
-  Selected projects
+  Selected projects. Under construction.
 output:
     distill::distill_article:
         toc: true
@@ -12,8 +12,24 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## STA303 Project in R
+## Design Thinking Projects
 
+### "FLI" (Winter 2022, ongoing)
 
-## Project in ArcGIS StoryMap
+Course Project for *EDS345H5 Design Thinking Incubator: From Problem to Prototype* at U of T
+
+Methodologies: 
+
+### "Pawlicy" Pet Insurance Product (Summer 2021)
+
+add screenshots - persona, empathy map, journey map, business canvas, low-fidelity prototypes
+
+### Virtual Residence Tour (Fall 2020)
+Course Project for *CDN355H1 Digital Media, Digital Maker* at U of T
+
+Platform: ArcGIS StoryMaps
+
+Link: 
+
+## Statistics Projects
 

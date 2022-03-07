@@ -19,7 +19,7 @@ output:
  
 ## Bio
 
-add bio here
+Under construction
 
 ## Education
 
@@ -34,5 +34,9 @@ Honours Bachelor of Science in Statistics & Digital Humanities | Anticipated Com
 **University of Toronto** | Teaching Assistant | September 2021 - December 2021
 
 **LifeWorks (formerly Morneau Shepell)** | Pension Analyst Intern | May 2018 - August 2018
+
+## Leadership Experience
+
+**Living Stone Assembly** | Youth Group Executive Member | March 2019 - Present
 
 ## Volunteer Experience
