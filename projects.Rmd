@@ -33,3 +33,9 @@ Link:
 
 ## Statistics Projects
 
+### Election Forecast (November 2020)
+Group Project for *STA304H1 Surveys, Sampling and Observational Data* at U of T
+
+[PDF Report: Donald Trump estimated to win 40% of the popular vote in the 2020 presidential election](pdfs/us-election-2020-predict-sta304.pdf)
+
+logistic regression, stratified sampling, survey design, observational data
